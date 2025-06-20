@@ -47,7 +47,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FikrSam&theme=radical&show_icons=true&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FikrSam&theme=radical&layout=compact&hide_border=false" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FikrSam&theme=radical&hide_border=false" height="150" />
 </p>
 
 ---
