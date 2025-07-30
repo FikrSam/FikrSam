@@ -25,15 +25,15 @@
 
 ---
 
-## 🚀 What I’m Building
+## What I’m Building
 
-- ✅ **To-Do App** – A clean, simple, persistent task manager.
-- 🔨 **BirrusWallet** – A savings-focused expense tracker with analytics *(In Progress)*.
-- 🧠 **Pomodoro Timer** – A focused work/break timer with visual feedback *(Coming Soon)*.
+-  **To-Do App** – A clean, simple, persistent task manager.
+-  **BirrusWallet** – A savings-focused expense tracker with analytics *(In Progress)*.
+-  **Pomodoro Timer** – A focused work/break timer with visual feedback *(Coming Soon)*.
 
 ---
 
-## 📚 Current Focus
+## Current Focus
 
 - Mastering PHP fundamentals and backend logic  
 - Strengthening front–back integration with vanilla tools  
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 Stats & Activity
+## Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FikrSam&theme=radical&show_icons=true&hide_border=false" height="150" />
