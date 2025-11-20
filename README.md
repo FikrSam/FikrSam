@@ -28,15 +28,14 @@
 ## What I’m Building
 
 -  **To-Do App** – A clean, simple, persistent task manager.
--  **BirrusWallet** – A savings-focused expense tracker with analytics *(In Progress)*.
+-  **FranccWallet** – A savings-focused expense tracker with analytics *(Coming soon)*.
 -  **Pomodoro Timer** – A focused work/break timer with visual feedback *(Coming Soon)*.
 
 ---
 
 ## Current Focus
 
-- Mastering PHP fundamentals and backend logic  
-- Strengthening front–back integration with vanilla tools  
+- Learning Fontend tools like react n such 
 - Designing apps that are *useful*, not just *shiny*  
 - Learning by building, refining through feedback  
 
@@ -51,25 +50,7 @@
 
 ---
 
-## 🎮 Fun Zone
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="80" />
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="80" />
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="80" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D6D&center=true&vCenter=true&width=440&lines=//+currently+grinding+code...;>+user+is+in+build+mode...;_never+not+debugging...;>+dreaming+in+terminal..." />
-</p>
-
-<p align="center"><pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀               ⠐⠿⣿⡿⢿⣶⣿⠂⢀⣾⣿⠃⢀⣴⣿⡟⠁⠀⠀⣰⣿⢟⣿⣿⠟⠀⠀⣠⣾⣿⡇⣿⣿⣿⣿⣿⠀⣶⣿⣿⠂⣠⣾⣿⡟⠀⢀⣴⣿⣿⠂⢀⣾⣿⡀⢠⣿⡇⠀⣼⣿⡿
-⠀⠀⠀              ⣴⡟⠀⠀⠉⠁⢀⣾⢿⣿⣰⡿⣿⡿⠁⠀⠀⣰⣿⣿⢿⣿⣷⠀⣠⣾⣿⢋⣿⡟⠀⣼⡿⠁⠀⣰⣿⣿⣿⣾⣿⣿⣿⠀⣰⣿⡿⣻⣿⢀⣾⡿⣿⣧⣾⡟⠀⣰⣿⠏⠀
-⠀              ⣀⣼⣿⣤⠀⠀⠀⢠⣿⠇⢸⣿⠏⣸⣿⠇⠀⠀⢰⣿⣿⣤⣴⣿⠿⣴⣿⣿⠿⢿⣿⡇⣸⣿⠃⠀⢰⣿⠇⣿⣿⠏⣼⣿⢇⣾⣿⡿⠿⣿⡇⣼⣿⠃⢸⣿⡿⠀⣠⣿⡍⠀⠀
-             ⠙⠛⠉⠉⠁⠀⠀⠀⠀⠛⠀⠀⠁⠀⠈⠉⠀⠀⠀⠀⠙⠛⠛⠉⠀⠀⠀⠛⠃⠀⠀⠀⠘⠛⠀⠛⠃⠀⠀⠉⠋⠀⠙⠁⠀⠘⠋⠀⠘⠋⠀⠀⠀⠛⠀⠛⠃⠀⠀⠛⠀⠀⠈⠛
-</pre></p>
 
 ---
 
